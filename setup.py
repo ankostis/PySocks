@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from setuptools import setup
 
-VERSION = "1.6.6"
+VERSION = "1.6.7.dev"
 
 setup(
     name = "PySocks",
